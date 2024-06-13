@@ -21,7 +21,9 @@ Bubble columns are vertical reactors where gas is introduced at the bottom and f
 
 ## Dataset
 
-The dataset used in this project consists of 4042 data points collected from various bubble column experiments. Each data point includes features such as gas flow rate, liquid properties, column dimensions, and operating conditions, along with the corresponding gas holdup value. It is important to note that the majority of the data involves studies using air-water systems.
+The dataset used in this project consists of 4042 data points collected from various bubble column experiments (Hazare et al., 2022). Each data point includes features such as gas flow rate, liquid properties, column dimensions, and operating conditions, along with the corresponding gas holdup value. It is important to note that the majority of the data involves studies using air-water systems.
+
+The source for the data: https://www.sciencedirect.com/science/article/abs/pii/S0263876222002891
 
 ## Methodology
 
