@@ -71,7 +71,7 @@ The project demonstrated that Random Forest Regression is an effective technique
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/gas-holdup-prediction.git
+    git clone git@github.com:rragasa23/Machine-Learning.git
     cd gas-holdup-prediction
     ```
 
