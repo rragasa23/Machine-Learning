@@ -45,7 +45,7 @@ The source for the data: https://www.sciencedirect.com/science/article/abs/pii/S
 4. **Optimize Model**
     - Use grid search method to obtain opimum model and hyperparameters.
 
-5. **Feature Selection
+5. **Feature Selection**
     - Use feature_importances_ method to generate quantitative weights each feature has on the model.
 
 ## Model Training and Evaluation
